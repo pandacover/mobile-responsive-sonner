@@ -1,6 +1,6 @@
 # Smart Sonner
 
-A tiny wrapper around **sonner** that automatically picks the best toast position based on device type.
+A tiny wrapper around [sonner](https://github.com/emilkowalski/sonner) that automatically picks the best toast position based on device type.
 
 ## What it does
 
